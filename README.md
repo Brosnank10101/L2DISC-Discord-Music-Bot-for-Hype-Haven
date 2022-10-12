@@ -32,6 +32,8 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 
 - [A Discord Account](https://discord.com/register) and a discord bot 
   [application](https://discord.com/developers/docs/game-sdk/applications) is required.
+  
+- [FFmpeg](https://ffmpeg.org/) is a MUST requirement or else my discord music bot can't stream audio to discord.<br />FFmpeg is a cross-platform solution to record, convert and stream audio and video.
 
 
 
