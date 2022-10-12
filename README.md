@@ -61,7 +61,7 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 
 ![](https://i.imgur.com/7AcPs3M.png)
 
-- Go to OAuth2 and go to url editor select the scopes and bot perms that I have selected. Copy the URL and paste it into a new tab and add it to your discord server.<br /><br />If your confuesed on how to make a discord server here is a quick tutorial: https://www.youtube.com/watch?v=VZUIvADKuu4&ab_channel=TechInsider
+- Go to OAuth2 and go to url editor select the scopes and bot perms that I have selected. Copy the URL and paste it into a new tab and add it to your discord server.<br /><br />If your confuesed on how to make a discord server here is a quick tutorial:<br />https://www.youtube.com/watch?v=VZUIvADKuu4&ab_channel=TechInsider
 
 ## How to install FFmpeg For Windows
 
