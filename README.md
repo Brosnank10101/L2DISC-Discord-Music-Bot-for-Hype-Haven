@@ -46,3 +46,30 @@ A simple and easy to use discord bot made in python for any discord server =D
 
 - Go to OAuth2 and go to url editor select the scopes and bot perms that I have selected. Copy the URL and paste it into a new tab and add it to your discord server
 
+## How to install FFmpeg For Windows
+
+- For windows users download the three exe files from [here](https://drive.google.com/drive/folders/1Az47gObzlVSqKD9L-UT0dSJbPFPo2fju?usp=sharing) put these files into a folder and name that folder FFmpeg then save the folder into your local disk that has windows on it and save the folder here C:\Users\YOUR_USER\ffmpeg
+
+- Search up edit the system environment variables in windows search and open it up
+![](https://i.imgur.com/8CWLrsU.png)
+
+![](https://i.imgur.com/HsCGIqb.png)
+- Go to advanced then environment variables
+
+![](https://i.imgur.com/VnQnwpf.png)
+
+- select path and edit
+
+![](https://i.imgur.com/5QanCPl.png)
+
+- Go new and the paste in the file path of the folder location C:Users\YOUR_USER\ffmpeg
+
+## How to install FFmpeg on Linux
+
+- Linux users you have things nice and simple compared windows all you need to do is paste the following command into your terminal: sudo apt install ffmpeg
+
+## Download all the python modules in the requirements.txt file
+
+ - There you go your discord bot is all setup you just need to run it enjoy.
+
+ MAKE SURE YOU DOWNLOAD DISCORD.PY 1.7.3 NOT THE LATEST VERSION OF DISCORD.PY
