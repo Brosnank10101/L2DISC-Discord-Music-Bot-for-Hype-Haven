@@ -75,7 +75,7 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 ![](https://i.imgur.com/HsCGIqb.png)
 - Go to advanced then environment variables
 
-![](https://i.imgur.com/VnQnwpf.png)
+![](https://i.imgur.com/wuEGDLM.png)
 
 - select path and edit
 
