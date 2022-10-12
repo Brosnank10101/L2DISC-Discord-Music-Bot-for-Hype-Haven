@@ -3,7 +3,6 @@ import discord
 from discord.ext import commands
 import Music
 cogs = [Music]
-#******* YOU MUST REPLACE THE BELOW STRING WITH YOUR OWN DISCORD BOT TOKEN ************
 #authorization key
 token = '***REPLACE WITH YOUR OWN DISCORD BOT TOKEN'
 
