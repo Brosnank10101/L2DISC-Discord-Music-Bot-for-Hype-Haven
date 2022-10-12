@@ -28,13 +28,10 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 
 
 ## Requirements
-- [The latest version of python](https://www.python.org/downloads/). Python 3.10 is best however Python 3.8 or higher should work fine anything lower you will run into problems: 
+- [The latest version of python](https://www.python.org/downloads/)<br />Python 3.10 is best however Python 3.8 or higher should work fine anything lower you will run into problems. 
 
 - [A Discord Account](https://discord.com/register) and a discord bot 
   [application](https://discord.com/developers/docs/game-sdk/applications) is required.
-
-
-
 
 
 
