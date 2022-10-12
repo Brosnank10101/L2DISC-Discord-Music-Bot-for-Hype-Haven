@@ -47,7 +47,7 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 - Got to bot.
 
 ![](https://i.imgur.com/ih1wtnJ.png)
-- create a new bot and click yes do it create a bot
+- create a new bot and click yes create a bot
 
 ![](https://i.imgur.com/PS82HSs.png)
 
@@ -61,7 +61,7 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 
 ![](https://i.imgur.com/7AcPs3M.png)
 
-- Go to OAuth2 and go to url editor select the scopes and bot perms that I have selected. Copy the URL and paste it into a new tab and add it to your discord server
+- Go to OAuth2 and go to url editor select the scopes and bot perms that I have selected. Copy the URL and paste it into a new tab and add it to your discord server<br />If your confuesed on how to make a discord server here is a quick tutorial: https://www.youtube.com/watch?v=VZUIvADKuu4&ab_channel=TechInsider
 
 ## How to install FFmpeg For Windows
 
