@@ -10,10 +10,10 @@ A simple and easy to use discord bot made in python for any discord server =D
 
 My Music bot has pretty simple easy to use commands with the command prefix: b!
 
-- b!play search term - example b!play never gonna give you up<br />
+- b!play search term - example: b!play never gonna give you up<br />
   searches for music on youtube and plays the music without you needing to find a youtube link
   
-- b!play youtube link - example b!play https://www.youtube.com/watch?v=w1PXnF8fR9U<br />
+- b!play youtube link - example: b!play https://www.youtube.com/watch?v=w1PXnF8fR9U<br />
   uses the youtube link provided and plays that song
   
 - b!pause - pauses your music
