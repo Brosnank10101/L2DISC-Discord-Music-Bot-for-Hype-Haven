@@ -79,7 +79,7 @@ My Music bot has pretty simple easy to use commands with the command prefix: b!
 
 - select path and edit
 
-![](https://i.imgur.com/5QanCPl.png)
+![](https://i.imgur.com/Q07Iurx.png)
 
 - Go new and the paste in the file path of the folder location C:Users\YOUR_USER\ffmpeg
 
