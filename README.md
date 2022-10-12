@@ -6,6 +6,26 @@ A simple and easy to use discord bot made in python for any discord server =D
 
 - [@Brosnank10101](https://github.com/Brosnank10101)
 
+## How To Use My Discord Music Bot
+
+My Music bot has pretty simple easy to use commands with the command prefix: b!
+
+- b!play search term - example b!play never gonna give you up
+  searches for music on youtube and plays the music without you needing to find a youtube link
+  
+- b!play youtube link - example b!play https://www.youtube.com/watch?v=w1PXnF8fR9U
+  uses the youtube link provided and plays that song
+  
+- b!pause - pauses your music
+
+- b!resume - resumes your music
+
+- b!skip - skips the current playing song
+
+- b!leave - Discord Bot leaves the voice call
+
+- b!help_music - shows you a list of the music commands
+
 
 ## Requirements
 - [The latest version of python](https://www.python.org/downloads/). Python 3.10 is best however Python 3.8 or higher should work fine anything lower you will run into problems: 
