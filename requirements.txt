@@ -3,11 +3,5 @@ pip3 install pytube
 pip3 install discord.py == 1.7.3
 pip3 install ffmpeg
 
-How To install FFMPEG
-
-- Windows
-  Download the folder below and add it into your local Disk with windows on it - go into users then your user and paste the folder which has the 3 exe files within it
-  https://drive.google.com/drive/folders/1Az47gObzlVSqKD9L-UT0dSJbPFPo2fju?usp=sharing
-  
 - Linux
   type the following command: sudo apt install ffmpeg
